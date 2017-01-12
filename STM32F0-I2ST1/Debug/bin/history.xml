@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="5.4.1 -mcpu=cortex-m0 -mthumb -g -nostartfiles -Map=STM32F0-I2ST1.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\STM32F0-I2ST1 -TC:\CooCox\CoIDE\configuration\ProgramData\STM32F0-I2ST1/arm-gcc-link.ld -g -L..\..\.. -lm">
+      <target file="STM32F0-I2ST1.elf" lastModified="159900413aa">
+         <source file="..\obj\stm32f0xx_rcc.o" lastModified="1598fde6dd2"/>
+         <source file="..\obj\main.o" lastModified="15990041036"/>
+         <source file="..\obj\startup_stm32f0xx.o" lastModified="1598fde6ff5"/>
+         <source file="..\obj\stm32f0xx_dma.o" lastModified="1598fde7179"/>
+         <source file="..\obj\stm32f0xx_spi.o" lastModified="1598fde730a"/>
+         <source file="..\obj\stm32f0xx_gpio.o" lastModified="1598fde7496"/>
+         <source file="..\obj\system_stm32f0xx.o" lastModified="1598fde7615"/>
+         <source file="..\obj\stm32f0xx_misc.o" lastModified="1598fde77c4"/>
+      </target>
+   </processor>
+</history>
